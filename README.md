@@ -18,9 +18,9 @@
 ```
 
 ## 浏览器工作原理
-1. [浏览器架构](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/1)
-### 2. 页面渲染流程
-### 3. V8工作原理
+ - [浏览器架构](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/1)
+ - 页面渲染流程
+ - V8工作原理
 
 ## JavaScript进阶
 ### 1.
