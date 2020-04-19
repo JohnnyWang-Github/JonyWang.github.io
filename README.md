@@ -21,7 +21,9 @@
 ## 浏览器工作原理
  - [浏览器架构](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/1)
  - [页面渲染流程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/2)
- - V8工作原理
+ - 数据存数与内存回收
+ - 代码编译与解释执行
+ - 消息队列与事件循环
  
 ## 计算机网络
 
