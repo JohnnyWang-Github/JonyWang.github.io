@@ -27,7 +27,6 @@
  - 消息队列与事件循环
  
 ## 计算机网络
-
 ## 设计模式
 
 ## JavaScript进阶
@@ -39,10 +38,20 @@
  - 节流、防抖
 
 ## Vue
+ - 源码浅析（-）
+ - 基于vue-server-renderer的SSR
 ## Omi
 ## Node
+ - express
+ - Koa、Koa-router、Koa-static
 ## Webpack
+ - 多页面打包
+ - hash、chunkhash、contenthash的区别
 ## 微信小程序
+ - 小程序的webView原理
 ## 工程化
+ - 单元测试
 ## 持续集成
+ - CI/CD
 ## 项目实战
+ - HybridApp如何运行
