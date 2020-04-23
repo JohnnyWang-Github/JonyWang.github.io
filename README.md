@@ -54,6 +54,7 @@
  - 小程序的webView原理
 ## 工程化
  - [单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/5)
+ - [git钩子结合eslint检查](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/8)
 ## 持续集成
  - CI/CD
 ## 项目实战
