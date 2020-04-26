@@ -27,8 +27,11 @@
  - 消息队列与事件循环
  
 ## 计算机网络
+ - [认识一下JWT](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
+ 
 ## 设计模式
  - [设计模式（一）：观察者模式、发布订阅模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/6)
+ 
 ## JavaScript进阶
  - 测试函数
  - 函数式编程、纯函数、函数副作用
@@ -41,23 +44,30 @@
  - 源码浅析（-）
  - 基于vue-server-renderer的SSR
  - [基于Mocha、Chai、Sinon、Karma的单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/7)
+ 
 ## Omi
+
 ## Node
  - express
  - Koa、Koa-router、Koa-static
+ 
 ## Webpack
  - 3升级到4及闭坑指南
  - 手写loader、plugin解释此为何物
  - 多页面的打包
  - hash、chunkhash、contenthash的区别
+ 
 ## 微信小程序
  - 小程序的webView原理
+ 
 ## 工程化
  - [已被 babel 配置逼疯，总结babel ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/9)
  - [bebel升级到7](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/10)
  - [单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/5)
  - [git钩子结合eslint检查](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/8)
+ 
 ## 持续集成
  - CI/CD
+ 
 ## 项目实战
  - HybridApp如何运行
