@@ -53,6 +53,8 @@
 ## 微信小程序
  - 小程序的webView原理
 ## 工程化
+ - [已被 babel 配置逼疯，总结babel ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/9)
+ - [bebel升级到7](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/10)
  - [单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/5)
  - [git钩子结合eslint检查](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/8)
 ## 持续集成
