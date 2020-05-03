@@ -36,7 +36,7 @@
  - [设计模式（一）：观察者模式、发布订阅模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/6)
  
 ## JavaScript进阶
- - 函数式编程、纯函数、函数副作用
+ - [函数式编程、纯函数、函数副作用](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/13)
  - compose函数、pipe函数
  - 高阶函数
  - 缓存、curry、偏函数
