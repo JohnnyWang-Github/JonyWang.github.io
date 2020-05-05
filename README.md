@@ -38,9 +38,7 @@
 ## JavaScript进阶
  - [函数式编程、纯函数、函数副作用](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/13)
  - [compose函数、pipe函数](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/14)
- - 高阶函数
- - 缓存、curry、偏函数
- - 节流、防抖
+ - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
 
 ## Vue
  - 源码浅析（-）
