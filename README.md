@@ -59,6 +59,7 @@
  - 手写loader、plugin解释此为何物
  - 多页面的打包
  - hash、chunkhash、contenthash的区别
+ - [node-sass的那些坑](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/17)
  
 ## 微信小程序
  - 小程序的webView原理
@@ -67,7 +68,6 @@
  - [已被 babel 配置逼疯，总结babel ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/9)
  - [bebel升级到7](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/10)
  - [单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/5)
- - [node-sass的那些坑](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/17)
  - [git钩子结合eslint检查](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/8)
  
 ## 持续集成
