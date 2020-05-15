@@ -44,6 +44,7 @@
 ## Vue
  - 源码浅析（-）
  - 基于vue-server-renderer的SSR
+ - [组件间的通讯方式小结](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/19)
  - [基于Mocha、Chai、Sinon、Karma的单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/7)
  
 ## Omi
