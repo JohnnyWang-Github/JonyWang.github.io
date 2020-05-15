@@ -30,7 +30,7 @@
  - [消息队列与事件循环](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/18)
  
 ## 计算机网络
- - [认识一下JWT](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
+ - [从JWT看登录验证](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
  
 ## 设计模式
  - [设计模式（一）：观察者模式、发布订阅模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/6)
