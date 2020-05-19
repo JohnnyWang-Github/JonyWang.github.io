@@ -44,7 +44,7 @@
 
 ## Vue
  - [Vue源码浅析（一）导览](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/21)
- - [Vue源码浅析（一）观察者系统与依赖收集]
+ - [Vue源码浅析（二）观察者系统与依赖收集]
  - 基于vue-server-renderer的SSR
  - [组件间的通讯方式小结](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/19)
  - [基于Mocha、Chai、Sinon、Karma的单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/7)
