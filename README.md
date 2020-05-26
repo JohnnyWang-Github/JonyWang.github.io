@@ -28,6 +28,7 @@
  - [代码编译与解释执行](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/3)
  - [数据存储与内存回收](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/4)
  - [消息队列与事件循环](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/18)
+ - [JavaScript执行机制](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/27)
  
 ## 计算机网络
  - [从JWT看登录验证](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
