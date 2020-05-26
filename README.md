@@ -44,7 +44,6 @@
  - [compose函数、pipe函数](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/14)
  - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
  - [异步编程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/16)
- - [手写Promise]
 
 ## Vue
  - [Vue源码浅析（一）导览](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/21)
