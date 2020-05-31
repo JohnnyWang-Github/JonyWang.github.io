@@ -35,6 +35,7 @@
  - [浏览器的网络传输](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/26)
  
 ## 设计模式
+ - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
  - [设计模式（一）：观察者模式、发布订阅模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/6)
  - [设计模式（二）：装饰者模式]
  - [设计模式（三）：策略模式]
