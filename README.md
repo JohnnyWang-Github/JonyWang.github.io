@@ -33,6 +33,7 @@
 ## 计算机网络
  - [从JWT看登录验证](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
  - [浏览器的网络传输](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/26)
+ - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
  
 ## 设计模式
  - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
