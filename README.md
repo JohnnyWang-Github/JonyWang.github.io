@@ -40,6 +40,7 @@
  - [设计模式（一）工厂模式、建造者模式、单例模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/37)
  - [设计模式（二）桥接模式、享元模式、模板方法模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/38)
  - [设计模式（三）适配器模式、装饰者模式、命令模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/40)
+ - [设计模式（四）观察者模式、职责链模式、访问者模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/43)
  
 ## JavaScript进阶
  - [函数式编程、纯函数、函数副作用](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/13)
