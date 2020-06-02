@@ -53,6 +53,7 @@
  - [Vue源码浅析（三）$mount的挂载和更新原理](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/24)
  - [Vue源码浅析（四）vnode的深入理解](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/25)
  - [Vue源码浅析（五）patch过程和diff算法](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/23)
+ - [Vue源码浅析（番外）vue-router原理 ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/41)
  - 基于vue-server-renderer的SSR
  - [组件间的通讯方式小结](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/19)
  - [基于Mocha、Chai、Sinon、Karma的单元测试](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/7)
