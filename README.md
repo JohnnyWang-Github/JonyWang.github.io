@@ -50,6 +50,7 @@
  - [设计模式（四）观察者模式、职责链模式、访问者模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/43)
  
 ## JavaScript进阶
+ - [Agnular1.x原理浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/29)
  - [函数式编程、纯函数、函数副作用](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/13)
  - [compose函数、pipe函数](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/14)
  - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
