@@ -7,6 +7,7 @@
   
 ### 大纲
 ```
+- 随笔
 - 浏览器工作原理
 - 计算机网络
 - CSS
@@ -22,6 +23,8 @@
 - 持续集成
 - 项目实战
 ```
+
+## 随笔
 
 ## 浏览器工作原理
  - [浏览器架构](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/1)
