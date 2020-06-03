@@ -12,7 +12,8 @@
 - 计算机网络
 - CSS
 - 设计模式
-- JavaScript系列
+- JavaScript进阶
+- 算法
 - Vue
 - Omi
 - Node
@@ -54,6 +55,9 @@
  - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
  - [异步编程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/16)
  - [从__proto__和prototype理解原型、原型链、继承](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/30)
+ 
+## 算法
+ - [冒泡排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
 
 ## Vue
  - [Vue源码浅析（一）导览](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/21)
