@@ -10,7 +10,6 @@
 - 浏览器工作原理
 - 计算机网络
 - CSS
-- 算法
 - 设计模式
 - JavaScript系列
 - Vue
@@ -38,8 +37,6 @@
  - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
 
 ## CSS
-
-## 算法
  
 ## 设计模式
  - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
