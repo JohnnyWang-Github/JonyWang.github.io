@@ -13,7 +13,7 @@
 - CSS
 - 设计模式
 - JavaScript进阶
-- 算法
+- 数据结构与算法
 - Vue
 - Omi
 - Node
@@ -59,7 +59,7 @@
  - [异步编程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/16)
  - [从__proto__和prototype理解原型、原型链、继承](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/30)
  
-## 算法
+## 数据结构与算法
  - [冒泡排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
 
 ## Vue
