@@ -60,7 +60,7 @@
  - [从__proto__和prototype理解原型、原型链、继承](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/30)
  
 ## 数据结构与算法
- - [冒泡排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
+ - [冒泡排序、插入排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
 
 ## Vue
  - [Vue源码浅析（一）导览](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/21)
