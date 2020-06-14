@@ -59,6 +59,7 @@
  - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
  - [异步编程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/16)
  - [从__proto__和prototype理解原型、原型链、继承](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/30)
+ - [手写Promise](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/20)
  
 ## 数据结构与算法
  - [冒泡排序、插入排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
