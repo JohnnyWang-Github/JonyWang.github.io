@@ -64,6 +64,7 @@
  
 ## 数据结构与算法
  - [冒泡排序、插入排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
+ - [链表](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/54)
  - [二分查找、二叉树](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/48)
 
 ## Vue
