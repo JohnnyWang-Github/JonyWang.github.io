@@ -93,10 +93,11 @@
  
 ## Webpack
  - 3升级到4及闭坑指南
- - [webpack的loader和pulgin](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/35)
+ - webpack的loader和pulgin
+ - [webpack热更新](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/58)
  - 多页面的打包
  - hash、chunkhash、contenthash的区别
- - [node-sass的那些坑](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/17)
+ - node-sass的那些坑
 
 ## 音视频/web媒体
  - [音视频基本概念](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/50)
