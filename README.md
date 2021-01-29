@@ -65,7 +65,7 @@
  
 ## 数据结构与算法
  - [时间复杂度和空间复杂度分析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/59)
- - [数组、冒泡排序、插入排序](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
+ - [数组：冒泡排序、插入排序，栈，队列](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/44)
  - [链表、跳表](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/54)
  - [二分查找、二叉树](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/48)
  - [B+树，B树，红黑树](https://www.jianshu.com/p/86a1fd2d7406)
