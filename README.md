@@ -45,6 +45,7 @@
  - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
 
 ## CSS
+- node-sass的那些坑
  
 ## 设计模式
  - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
@@ -107,7 +108,7 @@
  - webpack的loader和pulgin
  - 多页面的打包
  - hash、chunkhash、contenthash的区别
- - node-sass的那些坑
+ 
 
 ## 音视频/web媒体
  - [音视频基本概念](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/50)
