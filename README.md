@@ -45,7 +45,7 @@
  - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
 
 ## CSS
-- node-sass的那些坑
+- [node-sass的那些坑](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/17)
  
 ## 设计模式
  - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
