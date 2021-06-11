@@ -12,6 +12,7 @@
 - 计算机网络
 - CSS
 - 设计模式
+- JavaScript基础
 - JavaScript进阶
 - 数据结构与算法
 - Vue
@@ -54,7 +55,9 @@
  - [设计模式（三）适配器模式、装饰者模式、命令模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/40)
  - [设计模式（四）观察者模式、职责链模式、访问者模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/43)
  - [设计模式（五）策略模式/状态模式、外观模式、迭代器模式、备忘录模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/49)
- 
+
+## JavaScript基础
+
 ## JavaScript进阶
  - [Agnular1.x原理浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/29)
  - [函数式编程、纯函数、函数副作用](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/13)
