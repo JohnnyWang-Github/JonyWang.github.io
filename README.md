@@ -61,6 +61,7 @@
  - [设计模式（五）策略模式/状态模式、外观模式、迭代器模式、备忘录模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/49)
 
 ## JavaScript基础
+- [Blob/BlobURL、File/FileReader 、ArrayBuffer/ArrayBufferView](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/78)
 
 ## JavaScript进阶
  - [Agnular1.x原理浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/29)
