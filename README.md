@@ -117,7 +117,7 @@
  - [sourceMap](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/61)
  - [Tree-Shaking](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/65)
  - [webpack热更新](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/58)
- - 3升级到4及闭坑指南
+ - [webpack升级指南](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/79)
  - [webpack的loader和pulgin](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/35)
  - 多页面的打包
  - hash、chunkhash、contenthash的区别
