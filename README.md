@@ -50,9 +50,10 @@
  - [缓存策略 ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/47)
  - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
 
-## CSS
+## CSS/动画
 - [Sass、Less、Stylus、PostCss](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/17)
 - [BFC、IFC、GFC、FFC](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/53)
+- [font-family相关、自定义字体小结](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/80)
  
 ## 设计模式
  - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
