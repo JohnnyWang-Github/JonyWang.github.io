@@ -65,6 +65,7 @@
 
 ## JavaScript基础
 - [ArrayBuffer/ArrayBufferView、Blob/BlobURL/DataURL、File/FileReader、Canvas](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/78)
+- [深拷贝](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/81)
 
 ## JavaScript进阶
  - [Agnular1.x原理浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/29)
