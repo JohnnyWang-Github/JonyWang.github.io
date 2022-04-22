@@ -65,6 +65,7 @@
 
 ## JavaScript基础
 - [ArrayBuffer/ArrayBufferView、Blob/BlobURL/DataURL、File/FileReader、Canvas](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/78)
+- [从__proto__和prototype理解原型、原型链、继承](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/30)
 - [深拷贝](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/81)
 
 ## JavaScript进阶
@@ -73,8 +74,7 @@
  - [compose函数、pipe函数](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/14)
  - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
  - [异步编程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/16)
- - [手写Promise](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/20)
- - [从__proto__和prototype理解原型、原型链、继承](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/30)
+ - [手冲Promise](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/20)
  
 ## 数据结构与算法
  - [时间复杂度和空间复杂度分析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/59)
