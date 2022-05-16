@@ -55,14 +55,6 @@
 - [Sass、Less、Stylus、PostCss](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/17)
 - [BFC、IFC、GFC、FFC](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/53)
 - [font-family相关、自定义字体小结](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/80)
- 
-## 设计模式
- - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
- - [设计模式（一）工厂模式、建造者模式、单例模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/37)
- - [设计模式（二）桥接模式、享元模式、模板方法模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/38)
- - [设计模式（三）适配器模式、装饰者模式、命令模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/40)
- - [设计模式（四）观察者模式、职责链模式、访问者模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/43)
- - [设计模式（五）策略模式/状态模式、外观模式、迭代器模式、备忘录模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/49)
 
 ## JavaScript基础
 - [ArrayBuffer/ArrayBufferView、Blob/BlobURL/DataURL、File/FileReader、Canvas](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/78)
@@ -76,6 +68,14 @@
  - [缓存、curry、偏函数、节流、防抖](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/15)
  - [异步编程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/16)
  - [手冲Promise](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/20)
+
+## 设计模式
+ - [设计模式导论](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/36)
+ - [设计模式（一）工厂模式、建造者模式、单例模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/37)
+ - [设计模式（二）桥接模式、享元模式、模板方法模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/38)
+ - [设计模式（三）适配器模式、装饰者模式、命令模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/40)
+ - [设计模式（四）观察者模式、职责链模式、访问者模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/43)
+ - [设计模式（五）策略模式/状态模式、外观模式、迭代器模式、备忘录模式](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/49)
  
 ## 数据结构与算法
  - [时间复杂度和空间复杂度分析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/59)
