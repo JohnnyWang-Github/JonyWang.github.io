@@ -40,7 +40,6 @@
  - [消息队列与事件循环](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/18)
  - [JavaScript执行机制、执行上下文、作用域链、词法作用域](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/27)
  - [preload、prefetch、defer、async傻傻分不清楚](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/77)
- - [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
  
 ## 计算机/网络/安全
  - [从JWT看登录验证](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
@@ -49,6 +48,7 @@
  - [实时消息传输协议RTMP](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/73)
  - [浏览器常见攻击方式及预防,XSS、CXRF、中间人等](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/28)
  - [缓存策略 ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/47)
+ - [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
  - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
 
 ## CSS/动画
