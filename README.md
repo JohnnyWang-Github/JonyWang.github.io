@@ -32,6 +32,9 @@
 
 ## 随笔
 
+## 计算机
+- [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
+
 ## 浏览器工作原理
  - [浏览器架构](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/1)
  - [页面渲染流程](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/2)
@@ -42,14 +45,13 @@
  - [SGML、HTML、XML和XHTML](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/84)
  - [preload、prefetch、defer、async傻傻分不清楚](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/77)
  
-## 计算机/网络/安全
+## 网络/安全
  - [从JWT看登录验证](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/11)
  - [浏览器的网络传输TCP/HTTP(s)](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/26)
  - [HTTP状态码](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/75)
  - [实时消息传输协议RTMP](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/73)
  - [浏览器常见攻击方式及预防,XSS、CXRF、中间人等](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/28)
  - [缓存策略 ](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/47)
- - [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
  - [Axios源码浅析](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/39)
 
 ## CSS/动画
