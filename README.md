@@ -31,7 +31,7 @@
 
 ## 随笔
 
-## 计算机
+## 计算机基础
 - [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
 
 ## 浏览器工作原理
