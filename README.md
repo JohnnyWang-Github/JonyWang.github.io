@@ -20,9 +20,8 @@
 - Flutter
 - Omi
 - Node
-- 云原生/ServerLess
 - Webpack
-- 音视频/web媒体
+- 音视频/流媒体
 - 编辑器
 - 微信小程序
 - 工程化
