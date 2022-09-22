@@ -33,6 +33,7 @@
 
 ## 计算机基础
 - [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
+- [计算机上是如何存储图片](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/86)
 
 ## 浏览器工作原理
  - [浏览器架构](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/1)
