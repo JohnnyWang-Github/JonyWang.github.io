@@ -18,9 +18,9 @@
 - Vue
 - React
 - Flutter
-- Omi
-- Node
 - Webpack
+- Node
+- Docker
 - 音视频/流媒体
 - 编辑器
 - 微信小程序
