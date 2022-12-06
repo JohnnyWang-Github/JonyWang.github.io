@@ -18,19 +18,20 @@
 - Vue
 - React
 - Flutter
-- Webpack
 - Node
-- Docker
 - 音视频/流媒体
 - 编辑器
 - 微信小程序
 - 工程化
+- Webpack
+- Vite
 - 持续集成
 - 项目实战
 ```
 
 ## 随笔
-
+ - [前端性能优化](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/87)
+ - 
 ## 计算机基础
 - [字符集Unicode、ISO 10646 和 字符编码ASCII 、UTF-8、UTF-16、UTF-32、UCS-2、UCS-4 ](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/83)
 - [计算机上是如何存储图片](https://github.com/JohnnyWang-Github/JohnnyWang.github.io/issues/86)
