@@ -115,8 +115,6 @@
  - [Web Serve](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/66)
  - [中间层、中间件、Express、Koa](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/34)
 
-## Docker
- 
 ## WebAssembly
  
 ## Webpack
@@ -125,6 +123,8 @@
  - [webpack热更新](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/58)
  - [webpack升级指南](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/79)
  - [webpack的loader和pulgin](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/35)
+
+## Vite
 
 ## 音视频/web媒体
  - [音视频基本概念](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/50)
@@ -139,6 +139,7 @@
  - [git钩子结合eslint检查](https://github.com/Joon-Wang/Joon-Wang.github.io/issues/8)
  
 ## 持续集成
+ - Docker
  - CI/CD
  
 ## 项目实战
